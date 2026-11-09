@@ -1,0 +1,6 @@
+{
+  "name": "MG Alpha Block — Trading Classroom",
+  "description": "Plataforma institucional de classroom, señales en vivo y gestión de riesgo para la comunidad de trading de índices sintéticos MG Alpha Block.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

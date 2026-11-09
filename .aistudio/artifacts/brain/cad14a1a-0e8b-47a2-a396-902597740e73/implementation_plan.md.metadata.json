@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de arquitectura e implementación para MG Alpha Block, plataforma integral de educación y trading de índices sintéticos con classroom modular, terminal de señales en vivo, calculadora especializada de lotaje/riesgo para índices Deriv, foro de debate y sistema de suscripciones por roles (Gratuito, Trader Pro, Master VIP, Mentor/Admin). Incluye recomendaciones completas de seguridad, sanitización de inputs y stack NestJS + TypeScript + PostgreSQL.",
+  "updatedAt":  "2026-11-09T02:11:19.287414052Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
